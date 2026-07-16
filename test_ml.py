@@ -1,5 +1,4 @@
 import pytest
-import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from ml.data import process_data
